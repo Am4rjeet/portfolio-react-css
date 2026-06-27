@@ -1,0 +1,117 @@
+{
+  "personalInfo": {
+    "name": "Amarjeet Kumar",
+    "role": "Full Stack Developer",
+    "email": "amarjeetxwd@gmail.com",
+    "github": "https://github.com/Am4rjeet",
+    "location": "India",
+    "available": true
+  },
+  "hero": {
+    "greetingBadge": "Available for new opportunities",
+    "description": "I design and build high-performance, scalable web applications. Specializing in modern frontend interfaces and robust backend architectures to deliver seamless digital experiences.",
+    "typedText": "Full Stack Developer"
+  },
+  "about": {
+    "headline": "Who is Amarjeet Kumar?",
+    "paragraphs": [
+      "I am a passionate Full-Stack Software Engineer who loves turning complex problems into elegant, robust digital solutions. With solid experience across the MERN (MongoDB, Express, React, Node.js) stack, I build applications that are not only performant and secure but also feature highly interactive and fluid user interfaces.",
+      "My engineering philosophy revolves around writing clean, modular, and maintainable code. I focus heavily on application lifecycle optimization, API efficiency, database scaling, and responsive design patterns that satisfy modern product needs.",
+      "When I'm not coding, you can find me exploring open-source repositories on GitHub, debugging infrastructure workflows, or reading about next-gen web standards and microservice architectures."
+    ],
+    "stats": [
+      {
+        "icon": "fa-solid fa-code",
+        "number": "2+",
+        "label": "Years of Development"
+      },
+      {
+        "icon": "fa-solid fa-laptop-code",
+        "number": "15+",
+        "label": "Projects Completed"
+      },
+      {
+        "icon": "fa-solid fa-circle-check",
+        "number": "100%",
+        "label": "Commitment to Quality"
+      },
+      {
+        "icon": "fa-brands fa-git-alt",
+        "number": "500+",
+        "label": "GitHub Contributions"
+      }
+    ],
+    "ctaText": "Interested in collaborating?",
+    "ctaDesc": "I am always excited to discuss new projects, engineering systems, or integration opportunities."
+  },
+  "skills": [
+    {
+      "title": "Frontend Development",
+      "icon": "fa-solid fa-code-branch",
+      "skills": [
+        { "name": "React.js", "level": 90 },
+        { "name": "HTML5 & CSS3", "level": 95 },
+        { "name": "JavaScript (ES6+)", "level": 90 },
+        { "name": "Next.js", "level": 80 },
+        { "name": "Responsive Web Design", "level": 95 }
+      ]
+    },
+    {
+      "title": "Backend & APIs",
+      "icon": "fa-solid fa-server",
+      "skills": [
+        { "name": "Node.js", "level": 85 },
+        { "name": "Express.js", "level": 85 },
+        { "name": "RESTful APIs", "level": 90 },
+        { "name": "GraphQL", "level": 70 },
+        { "name": "JWT Authentication", "level": 85 }
+      ]
+    },
+    {
+      "title": "Databases & State",
+      "icon": "fa-solid fa-database",
+      "skills": [
+        { "name": "MongoDB", "level": 85 },
+        { "name": "PostgreSQL", "level": 75 },
+        { "name": "Redis Caching", "level": 70 },
+        { "name": "SQL / NoSQL Schema", "level": 80 }
+      ]
+    },
+    {
+      "title": "Tools & DevOps",
+      "icon": "fa-solid fa-gears",
+      "skills": [
+        { "name": "Git & GitHub", "level": 90 },
+        { "name": "Docker Containers", "level": 70 },
+        { "name": "Postman API Testing", "level": 85 },
+        { "name": "VS Code Ecosystem", "level": 95 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "DevCanvas",
+      "subtitle": "Collaborative Developer Workspace",
+      "description": "A real-time collaborative workspace for developers, featuring interactive canvas whiteboards, synchronized code snippets, and group chat channels. Engineered using WebSockets for sub-100ms latency synchronization.",
+      "tags": ["React.js", "Node.js", "Socket.io", "MongoDB", "Canvas API"],
+      "githubLink": "https://github.com/Am4rjeet",
+      "demoLink": "#"
+    },
+    {
+      "title": "ShopFlow",
+      "subtitle": "Full-Stack E-Commerce Platform",
+      "description": "A robust e-commerce suite featuring persistent shopping states, secure checkouts, admin inventory controls, and automated transaction email receipts. Built with secure payment gateways and relational schemas.",
+      "tags": ["React.js", "Node.js", "PostgreSQL", "Stripe API", "Redux Toolkit"],
+      "githubLink": "https://github.com/Am4rjeet",
+      "demoLink": "#"
+    },
+    {
+      "title": "TaskPulse",
+      "subtitle": "Agile Workspace & Analytics",
+      "description": "An agile project planner featuring interactive Kanban boards, sprint tracking calendars, and analytics dashboards visualizing completion rates. Powered by custom drag-and-drop lists and chart APIs.",
+      "tags": ["Next.js", "Express.js", "MongoDB", "Recharts", "DnD Kit"],
+      "githubLink": "https://github.com/Am4rjeet",
+      "demoLink": "#"
+    }
+  ]
+}
